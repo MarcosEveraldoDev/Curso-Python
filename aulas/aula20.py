@@ -9,7 +9,7 @@ senha_permitida = '92425259'
 
 if (nome_digitado == nome_permitido1 or nome_digitado == nome_permitido2) and senha_digitada == senha_permitida:
   print('')
-  print('------ACESSO PERMITIDO------')
+  print('------ACESSO PERMITIDO------')  
   print("")
 else: 
   print('')
