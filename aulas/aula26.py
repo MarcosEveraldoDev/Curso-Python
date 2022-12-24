@@ -11,8 +11,7 @@ else:
   if ' ' in nome:
    print('Seu nome contem espacos')
   else:
-    print('Seu nome nao contem espaços')
- 
+    print('Seu nome nao contem espaços') 
   print(f'Seu nome tem {len(nome)} letras')
   print('A primeira letra do seu nome é :', nome[0])
   print('A ultima letra do seu nome é :', nome[-1])
