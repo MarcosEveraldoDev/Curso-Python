@@ -1,0 +1,3 @@
+# operadores de atribuição
+# = += -= *= /= //= **= %=
+
