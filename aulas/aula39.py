@@ -5,7 +5,7 @@ print('3- Telefone para contato.')
 print('4- Sair.')
 
 lista_produtos_esportivos = ['Luva de goleiro' , 'Chuteira' , 'Bola de Futebol']
-lista_roupas = ['Vestido','Calça'] 
+lista_roupas = ['Vestido','Calça']  
 lista_acessorios = ['Brincos', 'Colar']                                                      
 sapatos = ['Nike','Adidas','Puma'] 
                                    
